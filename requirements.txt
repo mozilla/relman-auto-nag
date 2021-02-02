@@ -3,7 +3,7 @@ argparse==1.4.0
 filelock==3.0.12
 humanize>=0.5.1
 icalendar==4.0.7
-icalevents==0.1.24
+icalevents==0.1.25
 Jinja2==2.11.3
 libmozdata>=0.1.66
 numpy==1.20.0
